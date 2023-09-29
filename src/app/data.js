@@ -134,6 +134,6 @@ export const DataArray = [
     des: "We did  this project for Yum Foods Located in USA.",
     des1: "This website's graphic design is fantastic. Animated sliders are painstakingly built and created in WordPress with Revolution Slider. All of the product photos are photo manipulations created in Adobe Photoshop.",
 
-    images: ["/yumfood.jpg", "/yumfood2.png"],
+    images: ["/onboarding.jpg", "/yumfood.jpg", "/deliveryguy.png"],
   },
 ];

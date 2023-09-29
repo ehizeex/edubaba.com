@@ -166,7 +166,7 @@ const HomeComponent = () => {
                   boxShadow: "#48AFDE -10px 25px 50px 10px",
                 }}
               >
-                <div className="lg:py-10  md:py-6 cursor-all-scroll">
+                <div className="lg:py-10 py-10 md:py-6 cursor-all-scroll">
                   <Slider {...settings}>
                     <img src="/mongodb.png" alt="" className="h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer " />
                     <img src="/expressjs.png" alt="" className=" h-12 grayscale opacity-30 hover:grayscale-0 hover:opacity-100 cursor-pointer " />
